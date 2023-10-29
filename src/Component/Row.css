@@ -1,0 +1,16 @@
+.swiper-button-prev,
+.swiper-button-next{
+ color: white !important;
+ font-weight: 700 !important;
+ transition: all .5s !important;
+}
+
+.swiper-button-prev:hover{
+  transform: scale(1.2);
+  color: red !important;
+}
+
+.swiper-button-next:hover{
+  transform: scale(1.2);
+  color: red !important;
+}
